@@ -77,9 +77,9 @@ com.example.jetpack
 
 ## Screenshot Tampilan Aplikasi
 
-| Layar Fokus | Sesi Berjalan | Riwayat Sesi |
+| Layar Fokus | Data Sensor | Riwayat Sesi |
 |---|---|---|
-| ![Fokus](screenshots/fokus.png) | ![Sesi berjalan](screenshots/sesi.png) | ![Riwayat](screenshots/riwayat.png) |
+| ![Fokus](screenshots/fokus.png) | ![Data sensor](screenshots/sensor.png) | ![Riwayat](screenshots/riwayat.png) |
 
 ---
 
@@ -87,7 +87,7 @@ com.example.jetpack
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/<username>/<nama-repo>.git
+   git clone https://github.com/Izzan4012/Fokusku.git
    ```
 2. Buka folder proyek di **Android Studio** (versi terbaru).
 3. Tunggu proses **Gradle Sync** selesai.
